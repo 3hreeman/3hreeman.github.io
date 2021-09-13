@@ -1,10 +1,10 @@
-title: Shelter
+title: SS
 author: Threeman 
 #email: santapemagic@gmail.com # email of site's author
 url: https://3hreeman.github.io 
 #baseurl: "/no-style-please" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  A (nearly) no-CSS, fast, minimalist Jekyll theme.
+  Shelter, or Scene
 
 # Social Profiles
 github_username: 3hreeman
@@ -18,10 +18,10 @@ favicon: "logo.png" # name+extension of favicon (which must be put on the root f
 theme: no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
 
 theme_config:
-  appearance: "auto" # can be "light", "dark" or "auto"
+  appearance: "dark" # can be "light", "dark" or "auto"
   back_home_text: ".." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: false # show blog description in home page
+  show_description: true # show blog description in home page
 
 sass:
   style: :compressed
