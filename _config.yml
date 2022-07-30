@@ -1,14 +1,14 @@
-title: SS
+title: 3hreeman
 author: Threeman 
 #email: santapemagic@gmail.com # email of site's author
 url: https://3hreeman.github.io 
 #baseurl: "/no-style-please" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  Shelter, or Scene
+  About
 
 # Social Profiles
 github_username: 3hreeman
-#linkedin_username: sangwoo-joh
+#linkedin_username: Semyeong (Threeman) Jang
 
 permalink: /:slug.html
 
