@@ -2,6 +2,11 @@
 
 source "https://rubygems.org"
 
-gem "kramdown-parser-gfm"
+git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
+gem "jekyll"
+gem 'jekyll-feed'
+gem 'jekyll-readme-index'
+gem 'jemoji'
+gem 'webrick'
 
-gemspec
+# gem "rails"
