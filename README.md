@@ -5,6 +5,14 @@ Cocos2d-x로 시작하여 ActionScript를 거쳐 UnityEngine에 정착한 모바
 현재는 개발 과정 관리 및 핵심 게임 시스템 개발에 참여하고 있습니다.
 UNET/Photon/ProudNet등 다양한 실시간 서버 엔진을 이용한 멀티플레이 게임 프로토타입을 제작하였습니다.
 AWS Gamelift를 이용하여 실시간 멀티플레이 콘텐츠를 서비스한 경험이 있습니다.
+
+---
+
+Client - Unity / C# / Spine / Shader
+Server - Java / MySQL / Apache Tomcat / MyBatis
+Multiplay - Unity Multiplayer Networking / Photon / ProudNet
+Environment - Linux / AWS
+
 ---
 ### 신원 미상의 진행중인 프로젝트 I, II
 1. 개발 과정 매니지먼트
