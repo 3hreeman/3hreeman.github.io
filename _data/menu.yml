@@ -2,26 +2,10 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: 슈퍼플래닛 (2017.09 ~ )
+  - title: 3hreeman
     entries:
-      - title: 마법스크롤 상인 지오 with NAVERWEBTOON
-      entries: 
-        - title: 전투 시스템 프로토타이핑
-        entries: 
-            - title: 기본 전투 로직 구현 및 리소스 관리 체계 구현 
-            - title: 전투 로그 및 리플레이 기능 구현 
-        - title: 클라이언트 최적화
-        entries:
-            - title: 외부 광고 SDK 프리로드 관련 메모리 이슈 해결
-            - title: 글로벌 빌드 관련 폰트 리소스 메모리 이슈 해결
-            - title: Graphics API 관련 빌드 옵션으로 인한 발열 이슈 해결
-      - title: 전자오락수호대 Vol.2
-        entries:
-            - title: 빌드 구조 재설계
-  - title: NXStudio (2016.02~2017.02)
-    entries:
-      - title: 삼극희 디펜스(三極姫DEFENCE)
-      
+      - title: About Him
+      url: https://github.com/3hreeman/about    
  
 # - title: info
 #    entries:
